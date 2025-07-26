@@ -1,0 +1,16 @@
+[
+    {
+        "id": "villa1",
+        "nom": "Villa Paradise",
+        "prix": "250€ par nuit",
+        "description": "Vue sur mer, piscine privée, 3 chambres.",
+        "photo_url": "https://example.com/villa1.jpg"
+    },
+    {
+        "id": "villa2",
+        "nom": "Villa Montagne",
+        "prix": "180€ par nuit",
+        "description": "Au pied des montagnes, jacuzzi inclus.",
+        "photo_url": "https://example.com/villa2.jpg"
+    }
+]
